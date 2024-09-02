@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    /* background-color: rgb(243, 243, 216); */
+}
+
+body {
+    padding: 50px;
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    ;
+    justify-content: space-between;
+    align-items: flex-end;/
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+    margin-left: 20px;
+    height: 100%;
+}
+
+a:hover {
+    background-color: rgb(141, 140, 140);
+    text-decoration: underline;
+    
+}
+
+.header-logo {
+    background-color: rebeccapurple;
+}
+
+nav {
+    background-color: rgb(53, 202, 145);
+    line-height: 30px;
+}
+
+header {
+    background-color: yellow;
+}
+
+p {
+    font-size: 100px;
+    font-weight: bold;
+    margin: 10px auto;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+figure {
+    margin: 100px;
+}
+
+ul{list-style: none;
+padding-left: 0;
+}
+
+li{background-color: orange;
+padding: 20px;
+display: inline-block;}
+.imgsp{
+margin: auto;}
+
+.product{font-size: 30px;}
+.detail{font-size: 20px;}
+.img1 {
+    width: 370px;
+    height: 300px;
+    background-image: url(song0331.github.io_lecture_.png) ;
+
+    background-position: -40px -100px;
+}
+
+.img2 {
+    width: 370px;
+    height: 300px;
+    background-image: url(song0331.github.io_lecture_.png) ;
+
+    background-position: -510px -100px;
+}
+.img3 {
+    width: 370px;
+    height: 300px;
+    background-image: url(song0331.github.io_lecture_.png) ;
+
+    background-position: -1010px -100px;
+}
+.img4 {
+    width: 370px;
+    height: 300px;
+    background-image: url(song0331.github.io_lecture_.png) ;
+
+    background-position: -1460px -100px;
+}
